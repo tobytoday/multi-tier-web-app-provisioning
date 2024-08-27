@@ -21,9 +21,9 @@ This project provided valuable experience in DevOps practices, particularly in a
 [MIT License](LICENSE)
 
 ## Acknowledgments
-This project was developed as part of the Udemy course "[DevOps Projects | Real Time DevOps & GitOps Projects]" by [Imran Teli]. 
+This project was developed as part of the Udemy course "[DevOps Projects | Real Time DevOps & GitOps Projects]" by Imran Teli. 
 
-- **Course**: [DevOps Project](https://www.udemy.com/course-dashboard-redirect/?course_id=3710504) by [Imran Teli]
+- **Course**: [DevOps Project](https://www.udemy.com/course-dashboard-redirect/?course_id=3710504) by Imran Teli
 
 ## Contact
 For any inquiries, please reach out on [[LinkedIn](https://www.linkedin.com/in/oluwatobi-oni-22582159/)].
